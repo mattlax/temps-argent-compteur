@@ -3,7 +3,7 @@
 Ce projet est une application **Streamlit** qui permet de visualiser en temps réel ce que vous gagnez au travail en fonction de votre salaire et du temps écoulé.
 
 ## 🚀 Démo
-👉 [[Lien Streamlit Cloud (à compléter une fois déployé)](https://)](https://temps-argent-compteur.streamlit.app/)
+👉 [Lien Streamlit Cloud](https://temps-argent-compteur.streamlit.app/)
 
 ## 📦 Fonctionnalités
 - Entrez votre salaire, jours travaillés et heures par jour
