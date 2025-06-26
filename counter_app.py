@@ -44,7 +44,7 @@ if st.button("🖥️ Activer / Désactiver mode compteur géant"):
 
 # Parameters input
 if not st.session_state.big_mode:
-    st.title("💰 Temps = Argent V2")
+    st.title("💰 Temps = Argent")
     with st.container():
         st.markdown("<div class='param-box'>", unsafe_allow_html=True)
         salary = st.number_input(
